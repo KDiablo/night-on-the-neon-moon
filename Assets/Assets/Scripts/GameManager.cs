@@ -126,7 +126,7 @@ public class GameManager : MonoBehaviour
 		}
 	}
 
-	void GameOver()
+	public void GameOver()
 	{
 		throw new NotImplementedException();
 	}
